@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arnav Srivastava
 - 👀 I’m interested in Cyber Security, Ethical Hacking, Cloud.
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning AWS, Linux
 - 💞️ I’m looking to collaborate on cloud computing projects. 
 
 <!---
